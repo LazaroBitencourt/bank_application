@@ -63,7 +63,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>bank_application\src\main\java\bankapplication</mainClass>
+							<mainClass>bankapplication.Application</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
